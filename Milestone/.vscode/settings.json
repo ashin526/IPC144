@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "commonhelpers.h": "c",
+        "stdio.h": "c"
+    }
+}
