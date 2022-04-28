@@ -1,0 +1,4 @@
+﻿a2ms4.obj : error LNK2019: unresolved external symbol _loadAccounts referenced in function _main
+a2ms4.obj : error LNK2019: unresolved external symbol _loadTickets referenced in function _main
+a2ms4.obj : error LNK2019: unresolved external symbol _applicationStartup referenced in function _main
+C:\Users\ANNA\source\repos\IPC-Project\A2\MS4\Debug\a2ms4.exe : fatal error LNK1120: 3 unresolved externals
